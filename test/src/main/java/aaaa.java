@@ -27,8 +27,9 @@ public class aaaa extends HttpServlet {
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		// TODO Auto-generated method stub
 		for(int i = 0; i < 10; i++)
-			response.getWriter().print(i);
+			response.getWriter().println(i);
 		response.getWriter().append("Served at: ").append(request.getContextPath());
+		
 	}
 
 	/**
