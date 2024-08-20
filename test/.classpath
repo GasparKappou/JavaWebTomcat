@@ -38,6 +38,6 @@
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="E:/descargas/apache-tomcat-7.0.109/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alumno/Desktop/610/apache-tomcat-7.0.109/lib/servlet-api.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
